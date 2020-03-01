@@ -1,6 +1,6 @@
 # MinizincTest
 
-You can use MiniZinc to model constraint satisfaction and optimization problems in a high-level, solver-independent way, taking advantage of a large library of pre-defined constraints
+MiniZinc can be used for model constraint satisfaction and optimization problems in a high-level, solver-independent way, taking advantage of a large library of pre-defined constraints
 
 -> The Repo for Easy Task for Minizinc Examples
 
