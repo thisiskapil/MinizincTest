@@ -4,5 +4,7 @@ MiniZinc can be used for model constraint satisfaction and optimization problems
 
 -> The Repo for Easy Task for Minizinc Examples
 
+#Task Name
+
 (a) Install MiniZinc on your computer and run some of the examples, for example from the Handbook or the examples pages;
 
