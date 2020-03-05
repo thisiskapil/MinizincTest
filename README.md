@@ -15,7 +15,7 @@ I solved  the various exmaple given in the Minizinc Handbook.
 
 #### (b) Study a bit of the MiniZinc modeling language and formulate and solve an example of your own. How will the R input and output look like?
 
-![2](minizincqueenscodepng)
+![2](minizincqueenscode.png)
 
 First install the Python Minizinc package
 
@@ -27,7 +27,7 @@ than run the Minizinc Instance solver.
     
     Minizinc Instance Solver in python
 
-![4](Runminizinccode.png)
+![4](Runminizincprog.png)
 
 
 
