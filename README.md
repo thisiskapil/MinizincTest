@@ -13,6 +13,8 @@ MiniZinc can be used for model constraint satisfaction and optimization problems
 
 #### (b) Study a bit of the MiniZinc modeling language and formulate and solve an example of your own. How will the R input and output look like?
 
+![2](2020-03-01_22-56-30.png)
+
 I solved  the various exmaple given in the Minizinc Handbook.
 
 
