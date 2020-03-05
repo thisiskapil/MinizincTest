@@ -9,12 +9,20 @@ MiniZinc can be used for model constraint satisfaction and optimization problems
 #### (a) Install MiniZinc on your computer and run some of the examples, for example from the Handbook or the examples pages;
 ![1](MinizincTestp.png)
 
+I solved  the various exmaple given in the Minizinc Handbook.
+
 
 
 #### (b) Study a bit of the MiniZinc modeling language and formulate and solve an example of your own. How will the R input and output look like?
 
 ![2](2020-03-05_00-13-55.png)
 
-I solved  the various exmaple given in the Minizinc Handbook.
+First install the Python Minizinc package
+by command pip install minizinc
+than run the Minizinc Instance solver.
+
+
+
+
 
 
