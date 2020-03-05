@@ -15,16 +15,19 @@ I solved  the various exmaple given in the Minizinc Handbook.
 
 #### (b) Study a bit of the MiniZinc modeling language and formulate and solve an example of your own. How will the R input and output look like?
 
-![2](2020-03-05_15-27-48.png)
+![2](minizincqueenscodepng)
 
 First install the Python Minizinc package
+
 by command pip install minizinc
+
 than run the Minizinc Instance solver.
 
-![3](2020-03-05_15_29_02.png)
-Minizinc Instance Solver in python
+![3](minizincInstance.png)
+    
+    Minizinc Instance Solver in python
 
-![4](2020-03-05_00-13-55.png)
+![4](Runminizinccode.png)
 
 
 
