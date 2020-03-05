@@ -21,6 +21,12 @@ First install the Python Minizinc package
 by command pip install minizinc
 than run the Minizinc Instance solver.
 
+![3](2020-03-05_15-27-48.png)
+
+Minizinc Instance Solver in python
+
+![3](2020-03-05_15_29_02.png)
+
 
 
 
